@@ -11,25 +11,25 @@ This platform marks a significant advancement in virtual education, setting a mo
 
 ## User Registration and Room Creation
 
-### Login Screen   
+**Login Screen**   
 Here, the user enters their name to log in.
 ![Login Screen](./images/1.png)
 
-** Main Menu**  
+**Main Menu**  
 The UI presents two options:
 - **Create Room:** Ideal for starting a session, where the user creates a room for others to join.
 - **Room List:** Displays active rooms, the number of users inside, the maximum allowed, and additional details. Users can join any available room.
 ![Main Menu](./images/2.png)
 
-** Creating a Room**  
+**Creating a Room**  
 In this screen, the user provides the room name and the maximum number of allowed users. Options to create or cancel are available.
 ![Create Room](./images/3.png)
 
-** Room List**  
+**Room List**  
 Once a room is created, it appears in the Room List. For instance, "Manolo" is marked with a "Me" tag to identify the user, and "Usuario 2" is another user connected from a different location. Only the room creator can press "Play" to start the session with all users in the room.
 ![Room List](./images/4.png)
 
-** Waiting Screen**  
+**Waiting Screen**  
 A waiting screen with valuable information is shown, displaying connection status and other messages or warnings.
 ![Waiting Screen](./images/5.png)
 
@@ -44,11 +44,11 @@ The virtual consultation room is incredibly realistic, featuring a carefully des
 ![Consultation Room 3](./images/8.png)
 ![Consultation Room 4](./images/9.png)
 
-** Interaction with the AI**  
+**Interaction with the AI**  
 The student begins interacting with the AI, which simulates a human sitting in front of them, listening and responding, creating a risk-free environment for practice.
 ![AI Interaction](./images/10.png)
 
-** Real-Time Conversation**  
+**Real-Time Conversation**  
 The screen shows the text of what the user asked the AI (black text) and the AI's response (green text). The AI's movements simulate speech as we hear the response.
 ![Real-Time Conversation](./images/11.png)
 
