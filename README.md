@@ -11,7 +11,7 @@ This platform marks a significant advancement in virtual education, setting a mo
 
 ## User Registration and Room Creation
 
-** Login Screen **  
+### Login Screen   
 Here, the user enters their name to log in.
 ![Login Screen](./images/1.png)
 
