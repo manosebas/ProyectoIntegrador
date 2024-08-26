@@ -37,7 +37,7 @@ A waiting screen with valuable information is shown, displaying connection statu
 
 To test the platform's functionality, a psychology practice session was conducted by assigning a case to the AI.
 
-** Virtual Consultation Room**  
+**Virtual Consultation Room**  
 The virtual consultation room is incredibly realistic, featuring a carefully designed space, specifically chosen colors, and a detailed exterior. For more information on the psychology details, refer to the attached document in the GitHub repository.
 ![Consultation Room 1](./images/6.png)
 ![Consultation Room 2](./images/7.png)
